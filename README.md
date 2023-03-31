@@ -256,20 +256,12 @@ Function Prototypes
     * Extracting the root node.
     * Searching for a node in a binary heap of size `n`.
 
-## Authors
+## Author
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>--- Mmesoma Saint</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>--- Chioma</summary>
-    <ul>
-    <li><a href="https://www.github.com/chioma2000">Github</a></li>
-    <li><a href="https://www.twitter.com/---chioma">Twitter</a></li>
-    <li><a href="mailto:---chioma---@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/mmesomasaint">Github</a></li>
+    <li><a href="https://www.twitter.com/---somso_saint">Twitter</a></li>
+    <li><a href="mailto:---mmesomasaint---@gmail.com">e-mail</a></li>
     </ul>
 </details>
